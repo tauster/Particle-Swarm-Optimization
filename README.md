@@ -1,5 +1,7 @@
 # Particle Swarm Optimization
-Particle swarm optimization algorithm tested on multiple non-convex functions
+#### _Particle swarm optimization algorithm tested on multiple non-convex functions_
+
+Two assignments covering a raw particle swarm optimization (PSO) model, and a hybrid method that incorporates MATLAB's `fmincon` function into the PSO algorithm.
 
 Running scripts:
 * For PSO.
@@ -12,3 +14,5 @@ Notes:
 * Warnings will occur when running the main scripts for plotting.
   * These warnings can be ignored.
 * Plots are only relevant for n = 2.
+
+Tausif S., 2017
