@@ -5,9 +5,11 @@ Two assignments covering a raw particle swarm optimization (PSO) model, and a hy
 
 Running scripts:
 * For PSO.
-  * Run A2Q1/A2Q1_Main.m
+  * Run `A2Q1/A2Q1_Main.m`
 * For Gradient-based.
-  * Run A2Q2/A2Q2_Main.m
+  * Run `A2Q2/A2Q2_Main.m`
+* For Hybrid PSO
+  * Run `A3_Q6.m`
 * Scripts will ask for user input for each case study and 'n' value. 
 
 Notes:
